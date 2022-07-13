@@ -1,9 +1,16 @@
 
+You can access **<a href="https://web.itu.edu.tr/koksalb17/final/index.php" target="_blank">here</a>** website project page.<br>
 
-Click **<a href="https://web.itu.edu.tr/koksalb17/final/index.php" target="_blank">here</a>** for the website.
+You can enter the site with the following information: <br>
 
-You can enter the site with the following information:
+   •**User Name:** Unknown_User    <br>
 
-**User Name:** Unknown_User    
+   •**Password:** 123456 <br>
 
-**Password:** 123456 
+I used the following languages and tools while making this website.<br>
+>-Html, <br>
+>-Css, <br>
+>-JavaScript,<br> 
+>-Bootstrap, <br>
+>-Php,<br>
+>-Mysql.<br>
